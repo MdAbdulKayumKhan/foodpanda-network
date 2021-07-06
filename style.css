@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: 0; padding: 0;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -12,7 +12,7 @@ body{
     padding-left: 5%;
     padding-top: 25px;
 }
-.half-outdoor h1 {
+ h1 {
     color: #575757;
     font-size:40px;
     line-height: 50%;
@@ -24,7 +24,7 @@ body{
 span{
     color:tomato;
 }
-.half-outdoor p{
+p{
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 40px;
@@ -49,7 +49,7 @@ span{
 /*-----------home-outdoor section End ----------------------------*/
 
 
-/* -------------Section Two start -------- */
+/* -------------Section Two about us start -------- */
 
 .half-about{
     width: 50%;
@@ -85,5 +85,66 @@ span{
 }
 
 
-/* -------------Section Two End -------- */
+/* -------------Section Two abouts us End -------- */
 
+/* ------------section three recipies items start ----------- */
+.yummy-recipies{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.yummy-items-menu{
+    width: 25%;
+    border: 1px solid white;
+    border-radius: 5%;
+    margin-left: 6%;
+    box-shadow: 5px 10px 30px #888888;
+}
+.menu-items-inner img{
+    width: 95%;
+    border-radius: 5%;
+        
+}
+.menu-items-inner{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.recipies{
+    margin-bottom: 10%;
+}
+    /* subscribers start*/
+.subscriber{
+    margin-top: 10%;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-left: 20%;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 2%;
+    box-shadow: 10px 10px 10px #888888;
+}
+.subscriber-num {
+    padding-inline-end: 5%;
+}
+.subscriber-num h3{
+    font-size: 30px;
+}
+
+    /* subscribers end*/
+
+/*------------section three recipies items end ----------- */ 
+
+/* ------ footer start -------- */
+.footer{
+    height: 200px;
+    text-align: center;
+    background-color: #0B0D17;
+}
+.footer-items{
+    padding-top: 2%;
+}
+.footer-items p, small{
+    color: whitesmoke;
+}
+/* -------footer end ---------- */
