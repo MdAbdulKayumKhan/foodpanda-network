@@ -31,11 +31,12 @@ p{
 }
 .half-outdoor a{
     text-decoration: none;
-    background-image: linear-gradient(#FE4D2F, #FC8F49);
-    padding: 10px 30px;
-    border-radius: 6%;
+    background-image: linear-gradient(#FE4D2F, #FEAC93);
+    padding: 15px 30px;
     color: white;
-    font-weight: 500;
+    font-weight: 700;
+    border-width: 2px 4px;
+    border-radius: 40px;
     
 }
 .half-outdoor img{
@@ -76,10 +77,11 @@ p{
 #about-id a{
     text-decoration: none;
     background-image: linear-gradient(#FE4D2F, #FC8F49);
-    padding: 10px 30px;
-    border-radius: 6%;
+    padding: 12px 20px;
     color: white;
-    font-weight: 500;
+    font-weight: 700;
+    border-width: 2px 4px;
+    border-radius: 40px;
 }
 .about-us{
     background-image: url(images/shapes/7.png);
@@ -155,8 +157,9 @@ p{
     border-radius: 10px 100px / 120px;
 }
 .chef-team{
-    background-image: url(images/shapes/Frame58.jpg);
+    background-image: url(images/shapes/Frame57.jpg);
     background-repeat: no-repeat;
+    background-position:left;
 }
 
 /* -------- Extra Section One : chef-team  end--------- */
