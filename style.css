@@ -13,7 +13,7 @@ body{
     padding-top: 25px;
 }
  h1 {
-    color: #575757;
+    color: #330a69;
     font-size:40px;
     line-height: 50%;
     font-weight: 700;
@@ -134,6 +134,31 @@ p{
     /* subscribers end*/
 
 /*------------section three recipies items end ----------- */ 
+
+/* -------- Extra Section One : chef-team  start--------- */
+.chef-team-title{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.chef-profile{
+    width: 20%;
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
+.chef-profile img{
+    width: 80%;
+    padding-left: 5%;
+    border-radius: 10px 100px / 120px;
+}
+.chef-team{
+    background-image: url(images/shapes/Frame58.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+/* -------- Extra Section One : chef-team  end--------- */
+
 
 /* ------ footer start -------- */
 .footer{
